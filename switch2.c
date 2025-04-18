@@ -1,0 +1,1 @@
+// a program to findout given character is vowel or 
